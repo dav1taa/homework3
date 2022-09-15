@@ -1,5 +1,5 @@
 ul {
-    display: flex;  
+    display: flex;
 }
 
 li {
@@ -13,4 +13,8 @@ th {
 }
 td{
     border: 1px solid black;
+}
+
+tr{
+    text-align: center;
 }
